@@ -1,7 +1,7 @@
 
 #ConverterRobux
 
-> Esta ferramenta facilita os calculos antes de comprar o item! <
+> Esta ferramenta facilita os calculos antes de comprar o item! 
 
 Made by hmstlol and Gulrila!
 
@@ -14,7 +14,7 @@ R: Claro! Se quiser conferir pode ver o código
 ------------------------------------------------------
 
 📎| Como ultilizo?
-R: Bom, certifique-se que tenha python instalado no seu computador para evitar erros, o link de instalação dele é este (https://www.python.org/)
+> : Bom, certifique-se que tenha python instalado no seu computador para evitar erros, o link de instalação dele é este (https://www.python.org/)
 
 ------------------------------------------------------
 
