@@ -9,17 +9,17 @@
 
 🛡️Possívels Dúvidas🛡️
 
-É seguro? 
->  R: Claro! Se quiser conferir pode ver o código 
+📎|É seguro? 
+>  R: Claro! Se quiser conferir pode ver o código.
 
 ------------------------------------------------------
 
 📎| Como ultilizo?
-> R: Bom, certifique-se que tenha python instalado no seu computador para evitar erros, o link de instalação dele é este (https://www.python.org/)
+> R: Bom, certifique-se que tenha python instalado no seu computador para evitar erros. O link de instalação dele é este (https://www.python.org/).
 
 ------------------------------------------------------
 
-📎|Quais são os comandos para executar ele?
+📎|Quais são os comandos para executá-lo?
 
 >  R:
 
